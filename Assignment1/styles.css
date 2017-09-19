@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: white;
+    font-family: courier;
+}
+
+p {
+    color: white;
+    font-family: verdana;
+}
+
+blockquote {
+	    color: white;
+}
+
+h2 {
+    border: 2px solid yellow;
+    padding: 20px;
+}
+
+table, th, td {
+	color: white;
+	border: 1px solid white;
+}
+
+ul {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+
+form {
+    color: white;
+}
+
+

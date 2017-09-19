@@ -9,6 +9,11 @@
 // CSS Requirements: Three styles(inline, document, external)
 // color, background, font style, margin, animation, etc.
 
-// Created by Dragan Jović
+// Created by Dragan JoviÄ‡
 // University of Akron
 // Internet Systems Programming Fall 2017
+
+
+// How to access my website using Pausch
+
+// link: http://pausch.cs.uakron.edu/~dj47/pa1/pa1.html

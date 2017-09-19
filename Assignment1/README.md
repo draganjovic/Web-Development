@@ -9,6 +9,6 @@ forms for submitting username and password, audio, video.
 ## CSS Requirements: 
 Three styles(inline, document, external), color, background, font style, margin, animation, etc.
 
-### Created by Dragan Jović
-### University of Akron
-### Internet Systems Programming Fall 2017
+### • Created by Dragan Jović
+### • University of Akron
+### • Internet Systems Programming Fall 2017
